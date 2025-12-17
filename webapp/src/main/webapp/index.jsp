@@ -9,6 +9,7 @@
   </div>
 
   <div>
+  <br>
 
     <label for="mail">Email:</label>
 
