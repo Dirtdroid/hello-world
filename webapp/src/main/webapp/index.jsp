@@ -1,7 +1,7 @@
 <form action="/submit-page.php" method="POST">
 
   <div>
-
+    <h1> New user Register</h1>  
     <label for="name">Name:</label>
 
     <input type="text" id="name" name="user_name" required>
