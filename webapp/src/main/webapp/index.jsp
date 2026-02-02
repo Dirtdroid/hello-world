@@ -15,6 +15,7 @@
 
     <input type="email" id="mail" name="user_email" required>
   <br>
+  <br>
    <label for="psw">Password:</label>
 
 
