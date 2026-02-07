@@ -23,7 +23,7 @@
 
   <div class="button">
   <br>
-  <h2> Is it time to party? If so... </h2>
+  <h2> Is it time to party? If so.... </h2>
     <button type="submit">Send Message</button>
 
   </div>
